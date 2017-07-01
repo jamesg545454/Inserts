@@ -5,7 +5,7 @@
         will load a plugin.  The UID's must be unique.  To add
         another copy and paste a class, edit the UID's, change
         the name and function name, and add the new function
-        to plugins.js  
+        to the plugins.js code file. 
 
         Create UID's at the web page below...  
         https://guidgenerator.com/online-guid-generator.aspx    
@@ -33,7 +33,7 @@
 			functionName="ProEQ"
 			metaClassID="{9B9B4F07-1790-445D-8A2B-6BBD0A5B5C2D}">
 			<Attribute id="menuPriority" value="-1"/>
-	</ScriptClass>
+	</ScriptClass> 
 
 </ClassFactory>
 
