@@ -15,7 +15,7 @@ function insertPlugin(target) {
         plugin in that pop-up list that's on the same vertical level as the mouse cursor.
         
         Click the title bar or something before hitting the hot key, or use macro toolbar 
-        buttons to load your favorite plugins.
+        buttons to load your favorite plugins.2222
     */
 
     var position; 
