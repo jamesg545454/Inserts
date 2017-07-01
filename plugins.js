@@ -1,5 +1,3 @@
-
- 
 function insertPlugin(target) {
 
     var position; 
