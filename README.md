@@ -1,6 +1,8 @@
 # Inserts
 Adding Insert Plug-ins to Studio One
 
+Wiki: https://github.com/StudioOneScripts/Inserts/wiki
+
 This script allows loading any plugin directly to selected tracks via key command 
 or via macro toolbar buttons.
 
@@ -19,6 +21,8 @@ buttons to load your favorite plugins
 Zip up the three files and rename the file as plugins.package, and put it into
 the Studio One application \scripts folder.
 
-=======================
+___________________________________________________________________
 
 Edit the files as commented in them to customize it for your system.
+
+
