@@ -12,3 +12,6 @@ plugin in that pop-up list that's on the same vertical level as the mouse cursor
 
 Click the title bar or something before hitting the hot key, or use macro toolbar 
 buttons to load your favorite plugins
+
+Zip up the three files and rename the file as plugins.package, and put it into
+the Studio One application \scripts folder.
