@@ -1,7 +1,7 @@
 # Inserts
 Adding Insert Plug-ins to Studio One
 
-Wiki: https://github.com/StudioOneScripts/Inserts/wiki
+Animated Gif: https://github.com/StudioOneScripts/Inserts/wiki
 
 This script allows loading any plugin directly to selected tracks via key command 
 or via macro toolbar buttons.
