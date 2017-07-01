@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaInformation>
+    <!-- package ID can be anything as long as it's unique -->
+	<Attribute id="Package:ID" value="insert.plugin"/>
+</MetaInformation>

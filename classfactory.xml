@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ClassFactory>
+
+<!--    You need a script class like below for every action that
+        will load a plugin.  The UID's must be unique.  To add
+        another copy and paste a class, edit the UID's, change
+        the name and function name, and add the new function
+        to plugins.js  
+
+        Create UID's at the web page below...  
+        https://guidgenerator.com/online-guid-generator.aspx    
+-->
+
+	<!-- Fat Channel -->
+    <ScriptClass
+			classID="{5DAD80A0-39FF-4DA5-88CC-1574692BA7FD}"
+			category="EditTask"
+			subCategory ="TrackEdit"
+			name="Insert: Channel Strip"
+			sourceFile="plugins.js"
+			functionName="FatChannel"
+			metaClassID="{A5163F18-20D0-4872-ADD0-4F8AE449E31F}">
+			<Attribute id="menuPriority" value="-1"/>
+	</ScriptClass>
+
+    <!-- Pro EQ -->
+    <ScriptClass
+			classID="{B3A7EEC6-A762-4A6C-A9E0-A5A1F231F158}"
+			category="EditTask"
+			subCategory ="TrackEdit"
+			name="Insert: Pro EQ"
+			sourceFile="plugins.js"
+			functionName="ProEQ"
+			metaClassID="{9B9B4F07-1790-445D-8A2B-6BBD0A5B5C2D}">
+			<Attribute id="menuPriority" value="-1"/>
+	</ScriptClass>
+
+</ClassFactory>
+
+
