@@ -50,5 +50,3 @@ function doCmd(category, action) {
     Host.GUI.Commands.deferCommand(category, action);
 }
 // ================================================================
-
-
