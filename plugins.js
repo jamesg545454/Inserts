@@ -3,7 +3,7 @@
 function insertPlugin(target) {
 
     /*  This script allows loading any plugin directly to selected tracks via key command
-        or via macro toolbar buttons.  MMMMM
+        or via macro toolbar buttons.  
 
         It works by firing the Console | Add Insert pop-up list and executing X "Down"
         commands to get to any plugin in the list and then loads it.  That list is fluid
