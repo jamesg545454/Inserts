@@ -1,5 +1,5 @@
 # Inserts
-Adding insert Plug-ins to Studio One
+Adding Insert Plug-ins to Studio One
 
 This script allows loading any plugin directly to selected tracks via key command 
 or via macro toolbar buttons.
